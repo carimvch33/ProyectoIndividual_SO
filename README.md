@@ -1,4 +1,4 @@
-Hola que tal profe, este mi repositorio donde podrá encontra el archivo .java el cual
+Hola que tal profe, soy Velazquez Chicuellar Carim y este mi repositorio donde podrá encontra el archivo .java el cual
 contiene el codigo de mi proyecto, asi como el video de explicación y su respectiva
 documentación, cualquier duda o incoveniente favor de hacermelo saber, gracias.
 
